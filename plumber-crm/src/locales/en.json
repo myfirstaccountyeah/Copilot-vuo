@@ -1,0 +1,63 @@
+{
+  "app": {
+    "title": "Plumber CRM",
+    "description": "A single-user CRM for Australian plumbing businesses."
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "button": "Login",
+      "error": "Invalid email or password."
+    },
+    "logout": {
+      "confirmation": "Are you sure you want to log out?"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to your dashboard!",
+    "metrics": {
+      "customers": "Total Customers",
+      "jobs": "Total Jobs",
+      "invoices": "Total Invoices"
+    }
+  },
+  "customers": {
+    "title": "Customers",
+    "add": "Add Customer",
+    "edit": "Edit Customer",
+    "delete": "Delete Customer",
+    "search": "Search Customers",
+    "noCustomers": "No customers found."
+  },
+  "jobs": {
+    "title": "Jobs",
+    "add": "Add Job",
+    "edit": "Edit Job",
+    "delete": "Delete Job",
+    "noJobs": "No jobs found."
+  },
+  "invoices": {
+    "title": "Invoices",
+    "add": "Add Invoice",
+    "edit": "Edit Invoice",
+    "delete": "Delete Invoice",
+    "noInvoices": "No invoices found."
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "currency": "Currency"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "back": "Back",
+    "loading": "Loading...",
+    "error": "An error occurred. Please try again."
+  }
+}

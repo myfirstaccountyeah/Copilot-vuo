@@ -1,0 +1,45 @@
+{
+  "welcome": "Welcome to Plumber CRM",
+  "login": {
+    "title": "Login to your account",
+    "email": "Email Address",
+    "password": "Password",
+    "button": "Login",
+    "forgotPassword": "Forgot your password?"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "overview": "Overview",
+    "metrics": "Metrics",
+    "jobs": "Jobs",
+    "invoices": "Invoices",
+    "customers": "Customers"
+  },
+  "customers": {
+    "title": "Customers",
+    "addCustomer": "Add Customer",
+    "search": "Search Customers",
+    "noCustomers": "No customers found."
+  },
+  "jobs": {
+    "title": "Jobs",
+    "addJob": "Add Job",
+    "noJobs": "No jobs found."
+  },
+  "invoices": {
+    "title": "Invoices",
+    "addInvoice": "Add Invoice",
+    "noInvoices": "No invoices found."
+  },
+  "settings": {
+    "title": "Settings",
+    "update": "Update Settings"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "confirmDelete": "Are you sure you want to delete this?"
+  }
+}
